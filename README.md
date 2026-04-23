@@ -4,15 +4,15 @@
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNET" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="50" margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="Postgres" height="50" margin:4px">
   <img src="https://www.thecsharpacademy.com/img/Cards/sql.png" alt="MS SQL Server" height="50" margin:4px"> 
 </p>
 
 ## I also know:
 <p>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" alt="SQLite" height="50" margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" height="50" margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" alt="Discord Bots" height="50" margin:4px">
 </p>
 
